@@ -128,7 +128,7 @@ OnTick(function (myHero)
           end
       end
        
-                
+     end         
 	
 end)
 
