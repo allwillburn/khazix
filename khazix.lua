@@ -126,7 +126,8 @@ OnTick(function (myHero)
                         CastTargetSpell(closeminion, RHydra)
       	        end
           end
-      
+      end
+			end
        
      end         
 	
